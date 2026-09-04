@@ -1,4 +1,6 @@
+Autor
 Nombre: Juan Andres Ramirez Castañeda
+Correo:juanramriez289694@correo.itm.edu.co
 Curso: Análisis de Algoritmos
 Semestre: 2026-2
 
