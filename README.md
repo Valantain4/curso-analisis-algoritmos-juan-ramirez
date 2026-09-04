@@ -18,3 +18,8 @@ Para ejecutar un archivo Python se puede utilizar:
 
 ```bash
 python nombre_archivo.py
+```
+
+## Información del curso
+
+Este repositorio corresponde al semestre 2026-2 para la aseginatura de analisis de algoritmos, la cual al principio estamos practicando en git y github.
