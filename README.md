@@ -25,3 +25,7 @@ python nombre_archivo.py
 ## Información del curso
 
 Este repositorio corresponde al semestre 2026-2 para la aseginatura de analisis de algoritmos, la cual al principio estamos practicando en git y github.
+
+## Laboratorios evaluativos
+
+- [Laboratorio 1 — Fundamentos, complejidad y recurrencias](laboratorios/lab1-fundamentos-complejidad-recurrencias/)
