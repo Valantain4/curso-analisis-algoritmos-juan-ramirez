@@ -29,3 +29,4 @@ Este repositorio corresponde al semestre 2026-2 para la aseginatura de analisis 
 ## Laboratorios evaluativos
 
 - [Laboratorio 1 — Fundamentos, complejidad y recurrencias](laboratorios/lab1-fundamentos-complejidad-recurrencias/)
+- [Laboratorio 2 — Dividir y vencer](laboratorios/lab2-divide-y-vencer/)
